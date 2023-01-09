@@ -1,1 +1,1 @@
-# DD1396-Palinda
+# DD1396 - Parallell and Concurrent Programming in Go
